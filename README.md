@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saksham2737/saksham2737/output/github-snake-dark.svg" alt="Snake animation">
+</p>
+
 <!--
 **saksham2737/saksham2737** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
